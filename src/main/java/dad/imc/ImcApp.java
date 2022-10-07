@@ -67,7 +67,7 @@ package dad.imc;
 
 			Scene scene = new Scene(rootPanel, 480, 200);
 			
-			primaryStage.setTitle("IMC (David Alejandro Hernández Alonso 2º DAM-A)");
+			primaryStage.setTitle("IMC");
 			primaryStage.setScene(scene);
 			primaryStage.show();
 
